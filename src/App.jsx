@@ -1,35 +1,35 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import Router from "./router";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import { useRecoilState } from "recoil";
+import { authenticated } from "./store";
+import { useEffect, useState } from "react";
+import axios from "axios";
+import Loading from "./components/Loading";
 
-function App() {
-  const [count, setCount] = useState(0)
+export default function App() {
+  const [auth, setAuth] = useRecoilState(authenticated);
+  const [mounted, setMounted] = useState(false);
+  const getUser = async () => {
+    try {
+      let response = await axios.get("me");
+      setAuth({ check: true, user: response.data.data });
+    } catch (e) {
+      console.log(e.response);
+    }
+    setMounted(true);
+  };
 
-  return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+  useEffect(() => {
+    getUser();
+  }, [auth.check, mounted]);
+
+  return !mounted ? (
+    <Loading />
+  ) : (
+    <div>
+      <ToastContainer />
+      <Router />
+    </div>
+  );
 }
-
-export default App
