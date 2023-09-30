@@ -1,10 +1,10 @@
-import { atom } from "recoil";
+import { atom } from 'recoil';
 
 const authenticated = atom({
-  key: "autenthicated",
-  default: {
-    check: false,
-    user: [],
-  },
+    key: 'autenthicated',
+    default: {
+        check: false,
+        user: [],
+    },
 });
 export { authenticated };

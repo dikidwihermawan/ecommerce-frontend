@@ -1,0 +1,502 @@
+
+Playlist Parsinta
+
+Contoh link youtube tinggal mengganti keynya saja
+
+https://www.youtube.com/watch?v=syQeL3TRaGc&ab_channel=Parsinta
+
+https://www.youtube.com/watch?v=d_T5kkk5HuY
+
+1. Membuat Forum dengan Laravel
+   1.  - https://youtu.be/fHb4phoG1Lk
+   2.  - https://youtu.be/tIOSkYsmu-A
+   3.  - https://youtu.be/YKCzsqBWdJg
+   4.  - https://youtu.be/49ewP2wxiQ8
+   5.  - https://youtu.be/2YuhYmLZP94
+   6.  - https://youtu.be/T5mLAwnuzKU
+   7.  - https://youtu.be/u7YATmDPLFw
+   8.  - https://youtu.be/Z6pFnwYCLe8
+   9.  - https://youtu.be/qTKusK2kLJU
+   10. - https://youtu.be/IjrYh0rJi9w
+   11. - https://youtu.be/LL5Ty5EGwTw
+   12. - https://youtu.be/Ga7CPh85hvI
+   13. - https://youtu.be/13vcf8L30zw
+   14. - https://youtu.be/vcWcQIHPOKY
+   15. - https://youtu.be/HJHqEUZ9_Vw
+
+2. Belajar Scout and Algolia
+   1.  - https://youtu.be/DZnOQ-aB4Jk
+   2.  - https://youtu.be/BuHaHdWBjSw
+   3.  - https://youtu.be/whexQS2zEXE
+   4.  - https://youtu.be/JhNL9Fk4RE0
+
+3. Notifikasi Channel Telegram dengan Laravel
+   1.  - https://youtu.be/7Ut0Dh5auPE
+   2.  - https://youtu.be/HSNkHJlDaMM
+   3.  - https://youtu.be/3wkcWGTedw0
+
+4. CSS Flexbox dari awal
+   1.  - https://youtu.be/6LuOdsoyhuE
+   2.  - https://youtu.be/tN2FqTiSlZU
+   3.  - https://youtu.be/MhKCV71ORtA
+   4.  - https://youtu.be/Q-umZ-MYXz0
+   5.  - https://youtu.be/GrLZy1uof6M
+   6.  - https://youtu.be/lwsUigX-rJ0
+   7.  - https://youtu.be/k5wMGI0aF9g
+   8.  - https://youtu.be/LMDUIOFOLEw
+
+5. Belajar Relasi dalam Laravel
+   1.  - https://youtu.be/5VH3gFniMSI
+   2.  - https://youtu.be/TnFF492qWGQ
+   3.  - https://youtu.be/DKF4E9v58tk
+   4.  - https://youtu.be/2tKUNJcQPfU
+   5.  - https://youtu.be/YTOAiKmCI8I
+   6.  - https://youtu.be/wy4agN3vRTQ
+   7.  - https://youtu.be/u0bGL3ZeCDY
+
+6. Belajar Membuat Forum dengan Laravel 6
+   1.  - https://youtu.be/Vl5D-CeZIQ4
+   2.  - https://youtu.be/wjKJMs565Ho
+   3.  - https://youtu.be/brnKz2kvuVY
+   4.  - https://youtu.be/ZiM49P2vO5k
+   5.  - https://youtu.be/0bLO20UkqLg
+   6.  - https://youtu.be/J1l2CqJQDts
+   7.  - https://youtu.be/Ayh52OQR6zg
+   8.  - https://youtu.be/rwekEQi-SOY
+   9.  - https://youtu.be/mlQafwAo8PU
+   10. - https://youtu.be/WszCGnRfXg8
+   11. - https://youtu.be/fMsyxYx0B3o
+   12. - https://youtu.be/YLffN-LiFmA
+   13. - https://youtu.be/16WsboCjN1o
+   14. - https://youtu.be/s5ZymJyLfpg
+   15. - https://youtu.be/AtaH5rOk3ig
+   16. - https://youtu.be/_aAg2irtDvk
+   17. - https://youtu.be/AsvJ9ICr8S4
+   18. - https://youtu.be/B0C1Rjbz6lQ
+   19. - https://youtu.be/NM1UxeKyOGM
+   20. - https://youtu.be/6jmkd0i7tfw
+   21. - https://youtu.be/mi0OiJSIKFQ
+   22. - https://youtu.be/ih2TlsMXhrE
+   23. - https://youtu.be/ctE5TQB5mGo
+   24. - https://youtu.be/cWV2pQLRwwQ
+   25. - https://youtu.be/sCKnDPOkfcc
+   26. - https://youtu.be/RxSXbU5cLaM
+   27. - https://youtu.be/_yq6AHBfn8g
+   28. - https://youtu.be/O8z1c3Eds5A
+   29. - https://youtu.be/ai7aomWz2GU
+
+7. Role & Permission in Laravel
+   1.  - https://youtu.be/Ajj34FD6OVU
+   2.  - https://youtu.be/Sm6whuBzKyo
+   3.  - https://youtu.be/bJytSbGFPJo
+   4.  - https://youtu.be/fIKi0IWcLx4
+   5.  - https://youtu.be/PyMFkgI5kCc
+   6.  - https://youtu.be/lCl_1cQF-pY
+   7.  - https://youtu.be/5vumZDJL_A0
+   8.  - https://youtu.be/py6XrDhh0wc
+   9.  - https://youtu.be/k5TVdfKVzhI
+
+8. Practical Livewire Component
+   1.  - https://youtu.be/oNlQw3vSgeQ
+   2.  - https://youtu.be/zOYEBaeHwFw
+   3.  - https://youtu.be/htr6xhidkg4
+   4.  - https://youtu.be/36SCFrfIuc8
+   5.  - https://youtu.be/VmDw76LT8wY
+   6.  - https://youtu.be/lheGltPl4Ac
+   7.  - https://youtu.be/7zHR-6JouYs
+   8.  - https://youtu.be/gHOzvwJKXMs
+   9.  - https://youtu.be/cQBYt6qL5T0
+
+9. Blog dengan Laravel Santum dan Vue
+   1.  - https://youtu.be/4e-EBkC2XEw
+   2.  - https://youtu.be/8UDd2A7D2AE
+   3.  - https://youtu.be/P2__eNo9lR0
+   4.  - https://youtu.be/0Ex5aGac4UI
+   5.  - https://youtu.be/PG5nLbDz8Ww
+   6.  - https://youtu.be/hzItU2vUaLo
+   7.  - https://youtu.be/Qp6o652ayLk
+   8.  - https://youtu.be/XcZ6jrpM2_k
+   9.  - https://youtu.be/UwtsCyA_MPo
+   10. - https://youtu.be/K-q6l_Pr4A8
+   11. - https://youtu.be/1ZYRTN7LKjU
+   12. - https://youtu.be/ImyW-f-8JkM
+   13. - https://youtu.be/3pju6tAB32A
+   14. - https://youtu.be/eC3X-iofI9M
+   15. - https://youtu.be/m8S6g52uHr8
+   16. - https://youtu.be/_udsgtD4DcI
+   17. - https://youtu.be/GOPYKFJEUkE
+   18. - https://youtu.be/GLhajJ0bUII
+   19. - https://youtu.be/P0vBqsgGVDU
+   20. - https://youtu.be/U7FgqKSwbO8
+   21. - https://youtu.be/rTXWEpME6N0
+
+10. Mari Kita Bangun Sosial Media dengan TALL
+   1.  - https://youtu.be/GcWukZmEthk
+   2.  - https://youtu.be/JLFNxJJiRFM
+   3.  - https://youtu.be/jAvT1dq1pGk
+   4.  - https://youtu.be/JyZQCjmkPxA
+   5.  - https://youtu.be/jbUm09iFNsY
+   6.  - https://youtu.be/htTheWM_KEg
+   7.  - https://youtu.be/GZeF5qupBWk
+   8.  - https://youtu.be/cblKkS_D6Fo
+   9.  - https://youtu.be/XLRk4GiExi4
+   10. - https://youtu.be/vRV0eECcXQg
+   11. - https://youtu.be/sAcpnO7lHuo
+   12. - https://youtu.be/FYQgJsK1pI4
+   13. - https://youtu.be/cuG4me6M6I4
+   14. - https://youtu.be/TAe1t-OlI1o
+   15. - https://youtu.be/d_T5kkk5HuY
+   16. - https://youtu.be/33INxuNNkxk
+   17. - https://youtu.be/fven77TOZB4
+   18. - https://youtu.be/-vNyTwAlWFM
+   19. - https://youtu.be/bLvhvVyj434
+   20. - https://youtu.be/Wyz8m0Vo2jc
+   21. - https://youtu.be/RcbJLnRd5PM
+   22. - https://youtu.be/AP_qSszLSSE
+   23. - https://youtu.be/m6Q5edcvb1Q
+   24. - https://youtu.be/qeozoCZf1Mw
+   25. - https://youtu.be/21xXPSJ8MW4
+   26. - https://youtu.be/Xerv0cKBPIY
+   27. - https://youtu.be/q1nLJ7PFjas
+   28. - https://youtu.be/sT3O0Oc2h10
+   29. - https://youtu.be/_bOZFrpjeDI
+   30. - https://youtu.be/Ef33vjS2jG0
+   31. - https://youtu.be/-eH7cyymFUQ
+   32. - https://youtu.be/BGG3hf9Gz1o
+   33. - https://youtu.be/rJQn1oQS7VU
+   34. - https://youtu.be/rBY7pdyykkw
+   35. - https://youtu.be/mEBYcjb8s-4
+   36. - https://youtu.be/VlSxonxc8Uo
+   37. - https://youtu.be/6ubirGycZzA
+   38. - https://youtu.be/V0cen61yA2Q
+
+11. Role & Permission with Admin Panel
+   1.  - https://youtu.be/DKyPiixSqIo
+   2.  - https://youtu.be/blnRbJ4rqZg
+   3.  - https://youtu.be/hk9a-csfkyI
+   4.  - https://youtu.be/3QtS_MIS4jw
+   5.  - https://youtu.be/CHj_7G90FGM
+   6.  - https://youtu.be/Jm5RYDLWtdc
+   7.  - https://youtu.be/0o0Jm-lnpTI
+   8.  - https://youtu.be/CN0WkLJyUTo
+   9.  - https://youtu.be/RUvmCE8nXhI
+   10. - https://youtu.be/VT9-fAJIiVw
+   11. - https://youtu.be/qkRy6moERW0
+   12. - https://youtu.be/t70XnqtKPe8
+   13. - https://youtu.be/rmh7M178DPs
+   14. - https://youtu.be/KA8Ta6mKBVk
+   15. - https://youtu.be/gMzzF6DsjJk
+
+12. Belajar Tailwind CSS dari Awal
+   9.  - https://youtu.be/-pXXxEwQ3Dc
+   10. - https://youtu.be/xsBgrOhtjb0
+   11. - https://youtu.be/VyUQhSh1Vj8
+   12. - https://youtu.be/17Qum2Zni44
+   13. - https://youtu.be/W6ojnR9IR3Y
+   14. - https://youtu.be/brxoFBDsOCk
+   15. - https://youtu.be/Ia1YjlUAW24
+   16. - https://youtu.be/yakFQRJoHWs
+   17. - https://youtu.be/Vc7wnGulYz8
+   18. - https://youtu.be/3mgwsQhCCAM
+   19. - https://youtu.be/CBno_Rhx4Ag
+
+13. Autentikasi Secara Manual Dengan Laravel 8
+   1.  - https://youtu.be/YL5ETa39NjQ
+   2.  - https://youtu.be/Cb4h3I4vvrs
+   3.  - https://youtu.be/frS1yRuSMfU
+   4.  - https://youtu.be/IpFoi8UCl9A
+   5.  - https://youtu.be/DUjVXjhm63k
+   6.  - https://youtu.be/MiAIzj2Wx14
+   7.  - https://youtu.be/vOvXoSi1I6o
+   8.  - https://youtu.be/sIb2aAtFDeQ
+
+14. Laravel Fortify Tanpa Jetstream
+   1.  - https://youtu.be/PLgvvBcwdM4
+   2.  - https://youtu.be/X30RGKQx364
+   3.  - https://youtu.be/qzmfcTLcFEM
+   4.  - https://youtu.be/rqW7BwTYmUA
+   5.  - https://youtu.be/qa947qCu6rE
+   6.  - https://youtu.be/coNwHRS1wrM
+   7.  - https://youtu.be/OYCLZ4DcIEs
+   8.  - https://youtu.be/hPHvL7wGRWA
+   9.  - https://youtu.be/bZTk-3bKPQk
+   10. - https://youtu.be/NjkiveDEIXk
+
+15. Autentikasi React dengan Laravel dan Laravel Sanctum
+   1.  - https://youtu.be/LYMTYiHltw4
+   2.  - https://youtu.be/P-m4Tm2rniw
+   3.  - https://youtu.be/GpMrc_03xQY
+   4.  - https://youtu.be/E78YxiBMUtw
+   5.  - https://youtu.be/A4i4P1aB6yQ
+   6.  - https://youtu.be/k8YFdCHe5UY
+   7.  - https://youtu.be/JXJQsuQ_BKw
+   8.  - https://youtu.be/XBwGFOl2pFE
+   9.  - https://youtu.be/AdG6NEBtU-c
+   10. - https://youtu.be/SS8ZHPyoCDU
+   11. - https://youtu.be/s-7TQMLW4HQ
+   12. - https://youtu.be/VpYbl0BWX6A
+   13. - https://youtu.be/yUtxIR0xbCQ
+
+16. Membangun Web Profil Band dan Lirik dengan Laravel 8
+   1.  - https://youtu.be/JKfbiukwzH8
+   2.  - https://youtu.be/o0CFK9v55PQ
+   3.  - https://youtu.be/OsJsdwh--XY
+   4.  - https://youtu.be/6XaPHVFtG6I
+   5.  - https://youtu.be/7YtpOdzqhiI
+   6.  - https://youtu.be/mCBLrQBSsZU
+   7.  - https://youtu.be/n2YIoFBNaGU
+   8.  - https://youtu.be/PVitwapeXr0
+   9.  - https://youtu.be/HHtgLIf4nPI
+   10. - https://youtu.be/6qbWWydiJkU
+   11. - https://youtu.be/XJb73ExxdOI
+   12. - https://youtu.be/Ce4eCxMJQc0
+   13. - https://youtu.be/fHXpdEBay3A
+   14. - https://youtu.be/16pSFDHdax8
+   15. - https://youtu.be/HSJSWg3naK0
+   16. - https://youtu.be/tS8dh27VEp4
+   17. - https://youtu.be/ghCBGaAzcPY
+   18. - https://youtu.be/45vs6MrxuqI
+   19. - https://youtu.be/Vow3iyDEl1A
+   20. - https://youtu.be/9aqKy14nA60
+   21. - https://youtu.be/UmfcWVUGAKo
+   22. - https://youtu.be/uWx4IRDgYJY
+   23. - https://youtu.be/Mo2tqmSed7M
+   24. - https://youtu.be/c33wm0d4gCc
+   25. - https://youtu.be/wbGBvuTOCwU
+   26. - https://youtu.be/FKYLl5fD1Dg
+   27. - https://youtu.be/JoYc9HtZKSk
+   28. - https://youtu.be/K9bx6tcfNs0
+   29. - https://youtu.be/Zj0nY43P9v4
+   30. - https://youtu.be/oNsrTxoqfL4
+   31. - https://youtu.be/xVIO6X9ftrs
+   32. - https://youtu.be/dQ3wm6LQHh0
+   33. - https://youtu.be/NhUVqa92uRM
+   34. - https://youtu.be/2fOe0fWC7uc
+
+17. Siapkan Mac Anda Untuk Dev
+   1.  - https://youtu.be/8vN1RDdVsCQ
+   2.  - https://youtu.be/Rppopb8LBfA
+   3.  - https://youtu.be/PpnPSQIAqxU
+   4.  - https://youtu.be/LT3yqfq-3Zo
+   5.  - https://youtu.be/7hYGM5VX0rQ
+
+18. Mari Kita Gunakan Laravel Breeze
+   6.  - https://youtu.be/yGCEl-5xwVA
+
+19. Belajar Tailwind CSS 2
+   17. - https://youtu.be/UDUI6DI6Lk4
+
+20. Cash In Out dengan Laravel Api dan Vue 3
+   5.  - https://youtu.be/_rqPfRPAJMc
+   6.  - https://youtu.be/GXScybgafgk
+   7.  - https://youtu.be/4_KWFr8wB9k
+   8.  - https://youtu.be/NQN8AGz7E68
+   9.  - https://youtu.be/1E-f77FhwNw
+   10. - https://youtu.be/-Y-xEqDxDLI
+   11. - https://youtu.be/end1kkfoFDU
+   12. - https://youtu.be/yFtPR-Dc2vI
+   13. - https://youtu.be/sSZwOZPWrBs
+   14. - https://youtu.be/r9AiPTpTiM4
+   15. - https://youtu.be/klV3W26eQ2s
+   16. - https://youtu.be/zEJ4kjrD81w
+   17. - https://youtu.be/jtv0VUVp58Y
+   18. - https://youtu.be/yIWoUyZ9n1w
+   19. - https://youtu.be/yXsIo4H0YR0
+   20. - https://youtu.be/BSvyd7Pyb6Q
+   21. - https://youtu.be/Q7ZXXeNfrIY
+
+21. Belajar Next.js Dari Awal
+   7.  - https://youtu.be/8dmGofPmSiU
+   8.  - https://youtu.be/P9oqFs6kkbA
+   9.  - https://youtu.be/TBRJ7QzliTo
+   10. - https://youtu.be/h8U4M3JUD_w
+   11. - https://youtu.be/a576ytGTkNc
+   12. - https://youtu.be/ato-j2tWsnA
+   13. - https://youtu.be/-l0c4qGt-wk
+
+22. Mari Kita Bangun Screencast
+   9.  - https://youtu.be/XeEHG6TISVI
+   10. - https://youtu.be/MgkivmI8Ao8
+   11. - https://youtu.be/u1rOxYRXFOs
+   12. - https://youtu.be/SDU13XpqrU0
+   13. - https://youtu.be/2UK16yPmswQ
+   14. - https://youtu.be/OnsUl0s7iUY
+   15. - https://youtu.be/nedwS1KBnG4
+   16. - https://youtu.be/bAkhxa8v0Vc
+   17. - https://youtu.be/dHCC0x1GkBk
+   18. - https://youtu.be/ist0lLY5w1Q
+   19. - https://youtu.be/JVf1K6NDXvs
+   20. - https://youtu.be/L3wDy0YG2nI
+   21. - https://youtu.be/Z2tEN5theEo
+   22. - https://youtu.be/mkmVbUeews4
+   23. - https://youtu.be/3AzQZBZm2U0
+   24. - https://youtu.be/vbUa0czhUpo
+   25. - https://youtu.be/Ig8Y9wYxBPM
+   26. - https://youtu.be/hKNekFqSnFQ
+   27. - https://youtu.be/wt9FWjzm0_k
+   28. - https://youtu.be/H7kJGXe3HHE
+   29. - https://youtu.be/-TNYGhacm0o
+   30. - https://youtu.be/6yGrEmheAhE
+   31. - https://youtu.be/10ihtV0sdU8
+   32. - https://youtu.be/gYZdsTkbBFA
+   33. - https://youtu.be/Cx-rGR-j6m8
+   34. - https://youtu.be/FGr45_wzfh0
+   35. - https://youtu.be/zpZGjleYqdE
+   36. - https://youtu.be/4W3bWU2NUcw
+   37. - https://youtu.be/EyIXzWReuS4
+   38. - https://youtu.be/0FbVx7tmQUc
+   39. - https://youtu.be/6a2mseCvcOQ
+   40. - https://youtu.be/omHhMFbagIU
+   41. - https://youtu.be/8eFSzBafQLQ
+   42. - https://youtu.be/vbsMhrKfE_w
+   43. - https://youtu.be/JJ4ZHZ3ttoI
+   44. - https://youtu.be/x5dRS2Qe7J4
+   45. - https://youtu.be/6h_df-DpudA
+   46. - https://youtu.be/bOurbo01pjE
+   47. - https://youtu.be/MB31svsx4ZM
+   48. - https://youtu.be/cJwrzqFl90s
+   49. - https://youtu.be/owJE-_QPAFc
+   50. - https://youtu.be/19rnCXKnmVI
+
+23. Next JS Dengan Laravel Sanctum & Fortify
+   6.  - https://youtu.be/Y1FW_k9RVWU
+   7.  - https://youtu.be/4zy6ZnonY_g
+   8.  - https://youtu.be/8YP38WHtGFk
+   9.  - https://youtu.be/WjJCGKd_SKQ
+   10. - https://youtu.be/MNj8XDKjRIA
+   11. - https://youtu.be/NovNb0RliOI
+   12. - https://youtu.be/1wYGWkd3-r4
+   13. - https://youtu.be/U9BD5bq9g7k
+   14. - https://youtu.be/UZf85mthIAw
+   15. - https://youtu.be/TeFpaNwHMdg
+   16. - https://youtu.be/MrTilZTUqyg
+   17. - https://youtu.be/4fZuPcYifQY
+   18. - https://youtu.be/4wDltzZ8acE
+   19. - https://youtu.be/3dszgC8UOq8
+   20. - https://youtu.be/3WFIe00fC-E
+
+24. Laravel Inertia Dari Awal
+   1.  - https://youtu.be/L-yJkqFRbl8
+   2.  - https://youtu.be/cSo4B2a0nEw
+   3.  - https://youtu.be/7bcl6FTJjPs
+   4.  - https://youtu.be/VBa8QOhwEow
+   5.  - https://youtu.be/ZZmzkqnIGyU
+   6.  - https://youtu.be/ef1s9Eig1qc
+   7.  - https://youtu.be/sXRQ-_B5eSw
+   8.  - https://youtu.be/dOlF-2Rtaww
+   9.  - https://youtu.be/ly3vuePliO8
+   10. - https://youtu.be/Rcq0uyCjhAQ
+   11. - https://youtu.be/V0sUxjnzLHM
+   12. - https://youtu.be/hcTPToyZT14
+   13. - https://youtu.be/lcPa_YEOS7M
+   14. - https://youtu.be/AheAAWwKvR8
+   15. - https://youtu.be/jCoCSLYKbOY
+   16. - https://youtu.be/m_2t4c6kn80
+   17. - https://youtu.be/9mCIWbVWCYs
+   18. - https://youtu.be/Z-6Yg8lIHko
+   19. - https://youtu.be/Q0KZ0CQEiF0
+   20. - https://youtu.be/FZW1Hp9z1J4
+   21. - https://youtu.be/Z1Wdit7d2os
+
+25. Rest API Dengan Laravel
+   1.  - https://youtu.be/dn7Wes_kG8Q
+   2.  - https://youtu.be/qUaRKl0siZY
+   3.  - https://youtu.be/aFpuRz_3I_k
+   4.  - https://youtu.be/zQk1DNZgkw0
+   5.  - https://youtu.be/Tp-iYr42dJI
+   6.  - https://youtu.be/doyLOqqRp30
+   7.  - https://youtu.be/vHqd6e-NhAs
+   8.  - https://youtu.be/GDd5DMCcs3k
+   9.  - https://youtu.be/nh_e6h93OSQ
+   10. - https://youtu.be/Ozt1OfEh7oA
+   11. - https://youtu.be/JTi_Wr8NJ3k
+   12. - https://youtu.be/60Z4amYVTNg
+   13. - https://youtu.be/vJ2BOZ8AsWI
+
+26. Realtime Dengan Laravel Echo & Pusher
+   1.  - https://youtu.be/GAJR8XiXCzo
+   2.  - https://youtu.be/MVdam5f3qrc
+   3.  - https://youtu.be/qYqJ5NFL40Y
+   4.  - https://youtu.be/mv1_obvB08g
+   5.  - https://youtu.be/ORRG0z-Yr-c
+   6.  - https://youtu.be/vpX1LilWreQ
+   7.  - https://youtu.be/lOrMslPoefA
+   8.  - https://youtu.be/Z2yE8Bqqjsc
+   9.  - https://youtu.be/h9_U2TmTvvs
+   10. - https://youtu.be/sa9FUG0JFuA
+   11. - https://youtu.be/Nz6I_VOXm8Q
+   12. - https://youtu.be/-c-1dEkai54
+   13. - https://youtu.be/Fdg78Swq6RY
+
+27. Datatable Dengan Laravel Inertia
+   1.  - https://youtu.be/GZAlO0qiyWY
+   2.  - https://youtu.be/qtFYQ9W0MEI
+   3.  - https://youtu.be/dDNRbJTjcjc
+   4.  - https://youtu.be/V1ez8d3chGE
+   5.  - https://youtu.be/NvmCPHzsUAg
+   6.  - https://youtu.be/F9yU2PI7-OE
+   7.  - https://youtu.be/mKHojjzRZsU
+
+28. Deploy Laravel Ke Server
+   1.  - https://youtu.be/yJNQm0MSmL4
+   2.  - https://youtu.be/fOVBtICy5hQ
+   3.  - https://youtu.be/Y79kRkgFQdg
+   4.  - https://youtu.be/vxO2K09AgTQ
+   5.  - https://youtu.be/AZv3L5kPcds
+
+29. Membangun Forum Dengan TDD
+   5.  - https://youtu.be/Fv_a2lFmQD0
+   6.  - https://youtu.be/NNEC4CHlafw
+   7.  - https://youtu.be/dWoKj4Kqkqw
+   8.  - https://youtu.be/xA0V6lLiajo
+   9.  - https://youtu.be/3GVC270BtVw
+   10. - https://youtu.be/iS____TELY4
+   11. - https://youtu.be/eCYTcxOc17k
+   12. - https://youtu.be/8d1Rulflk8o
+   13. - https://youtu.be/zSlJqcZM8Mw
+   14. - https://youtu.be/7xBL-tca_wY
+   15. - https://youtu.be/VUZ1AhiXvzU
+   16. - https://youtu.be/Mr6w3WjoHc0
+   17. - https://youtu.be/qkWTtt1Xcro
+   18. - https://youtu.be/xNVDzl5W2PQ
+   19. - https://youtu.be/3txWuKlKIl4
+   20. - https://youtu.be/75Aj4h-MYkc
+   21. - https://youtu.be/50cg0al06sw
+   22. - https://youtu.be/yXZr1-mzWec
+   23. - https://youtu.be/JdzSzyDgYJc
+   24. - https://youtu.be/udboiMtni-s
+   25. - https://youtu.be/gUNSbn-OlNE
+   26. - https://youtu.be/iYTAzc9ndS8
+   27. - https://youtu.be/Wt98xVTA7xw
+   28. - https://youtu.be/QdO1bA0U-rA
+   29. - https://youtu.be/FG59cp1Tz1s
+   30. - https://youtu.be/xajba0zA9ZQ
+   31. - https://youtu.be/JyGlSRJEcqY
+   32. - https://youtu.be/mFoedpe-hpA
+   33. - https://youtu.be/-KmIfgDvpv8
+   34. - https://youtu.be/3BsiSbC8yr0
+   35. - https://youtu.be/ae4gKLvuRaE
+   36. - https://youtu.be/SKDp1HaXbRw
+   37. - https://youtu.be/TbGj_yWOboU
+   38. - https://youtu.be/4Pkeapt9rgU
+   39. - https://youtu.be/U3y9dGnnzzQ
+   40. - https://youtu.be/aoYq1rWpu2E
+   41. - https://youtu.be/-V8-xcOyx8g
+   42. - https://youtu.be/HfB8Os7v6-4
+   43. - https://youtu.be/EvIHB1fNxog
+   44. - https://youtu.be/s9FaWq9_e2I
+   45. - https://youtu.be/fJrMnU8pJjA
+
+30. Belajar Laravel, Vue SPAs, Vue CLI, Note App
+   1.  - https://youtu.be/Cq8OuP7ni8w
+   2.  - https://youtu.be/1T-yQi8xOf0
+   3.  - https://youtu.be/jO6umeJzJ4E
+   4.  - https://youtu.be/hP3SYmzJzQk
+   5.  - https://youtu.be/4EGjRSC23qg
+   6.  - https://youtu.be/0vdVvkzCGlY
+   7.  - https://youtu.be/2O-wdUis3IY
+   8.  - https://youtu.be/rwx4e4lA-3k
+   9.  - https://youtu.be/wZ-d8iJXi7A
+   10. - https://youtu.be/93KaV_mWSc4
+   11. - https://youtu.be/1eZM1ULBfqg
+   12. - https://youtu.be/XeQzOg84zws
