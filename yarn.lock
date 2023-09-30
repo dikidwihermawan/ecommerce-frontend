@@ -427,6 +427,19 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@tabler/icons-react@^2.37.0":
+  version "2.37.0"
+  resolved "https://registry.npmjs.org/@tabler/icons-react/-/icons-react-2.37.0.tgz#92e80707d1982ba0ae79417833fbc852ecfd88df"
+  integrity sha512-1A2hae3WwF1rOes4J+BpNFCtXs+/syiXxeqadwq61tMGsCsM5TjZTu41RzLRPNP5i82th5JusGcqBrBhgcdvvg==
+  dependencies:
+    "@tabler/icons" "2.37.0"
+    prop-types "^15.7.2"
+
+"@tabler/icons@2.37.0":
+  version "2.37.0"
+  resolved "https://registry.npmjs.org/@tabler/icons/-/icons-2.37.0.tgz#2a8e84586d3960386a8ff6a698beb56b9fa541e8"
+  integrity sha512-Qo/aRhs2xXcD8IDSuePonR/39GSvQUdwv6RXdbcAhMfpJZP+pHRn2TQFPNGJND9B5uUBez694j4Nx71539XHGA==
+
 "@types/babel__core@^7.20.2":
   version "7.20.2"
   resolved "https://registry.npmjs.org/@types/babel__core/-/babel__core-7.20.2.tgz#215db4f4a35d710256579784a548907237728756"
@@ -1706,7 +1719,7 @@ prelude-ls@^1.2.1:
   resolved "https://registry.npmjs.org/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
-prop-types@^15.8.1:
+prop-types@^15.7.2, prop-types@^15.8.1:
   version "15.8.1"
   resolved "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz#67d87bf1a694f48435cf332c24af10214a3140b5"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
