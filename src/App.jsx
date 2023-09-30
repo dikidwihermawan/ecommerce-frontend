@@ -1,6 +1,5 @@
 import Router from "./router";
 import { ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
 import { useRecoilState } from "recoil";
 import { authenticated } from "./store";
 import { useEffect, useState } from "react";

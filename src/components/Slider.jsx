@@ -1,6 +1,6 @@
 import React from "react";
-import { Carousel } from "flowbite-react";
 
+import { Carousel } from "flowbite-react";
 import Satu from "../assets/images/1.png";
 import Dua from "../assets/images/2.png";
 import Tiga from "../assets/images/3.png";
